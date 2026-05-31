@@ -1,0 +1,24 @@
+{
+  "name": "Shape do Chicão",
+  "short_name": "Shape Chicão",
+  "description": "App fitness inteligente com a CHICA AI para treino, dieta e evolução.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061421",
+  "theme_color": "#071827",
+  "categories": [
+    "fitness",
+    "health",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
